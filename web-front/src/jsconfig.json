@@ -1,0 +1,14 @@
+{
+  "compilerOptions" : {
+    "baseUrl": "src"
+  },
+  "include": [
+    "pages/**/*.js",
+    "redux/**/*.ts",
+    "src"
+  ],
+  "exclude": [
+    "node_modules",
+    "**/*.spec.ts"
+  ]
+}
